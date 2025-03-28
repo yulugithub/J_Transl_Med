@@ -11,3 +11,5 @@ Results: The gut microbiota and fecal short-chain fatty acids (SCFAs) of four he
 Conclusion: We suggest that supplementation of Clostridium butyricum after colonoscopy should be considered in future routine clinical practice.
 
 Keywords: Clostridium butyricum; Colonoscopy; Gut microbiome; Probiotics; Short-chain fatty acids.
+
+https://pubmed.ncbi.nlm.nih.gov/38429821/ 
